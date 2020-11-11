@@ -16,7 +16,10 @@ array:
     - 2
     - 3
 ---
-swreyewrgytearg
+<a href="https://catalog.onliner.by/tires?season_tires%5B0%5D=winter&amp;season_tires%5Boperation%5D=union&amp;utm_source=main_tile&amp;utm_medium=winter_tires" class="b-tile-main">
+                <h3 class="b-tile-header max-lines-2" style="float: none; position: static;">Зимние шины</h3>
+                <p class="b-tile-excerpt max-lines-2" style="float: none; position: static;">Будьте готовы заранее</p>
+            </a>
 
 First Header  | Second Header
 ------------- | -------------
