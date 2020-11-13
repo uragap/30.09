@@ -16,7 +16,9 @@ array:
     - 2
     - 3
 ---
-
+<p data-md-type="paragraph">
+<a href="title-page.md" data-md-type="link">Title</a> <a href="foreword.md" data-md-type="link">Foreword</a> <a href="introduction.md" data-md-type="link">Introduction</a>
+</p>
 
 First Header  | Second Header
 ------------- | -------------
