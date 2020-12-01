@@ -1,8 +1,30 @@
 ---
-"Hello"
+$title: Events
+order: 0
+formats:
+  - websites
+  - stories
+  - ads
+teaser: Hop
+array:
+  key: Text content content
+    content content
+    content content
+  inside_array:
+    array:
+    - 1
+    - 2
+    - 3
 ---
+# The Rust Programming Language
 
-swreyewrgytearg
+[The Rust Programming Language](title-page.md)
+[Foreword](foreword.md)
+[Introduction](ch00-00-introduction.md)
+
+<p data-md-type="paragraph">
+<a href="title-page.md" data-md-type="link">Title</a> <a href="foreword.md" data-md-type="link">Foreword</a> <a href="introduction.md" data-md-type="link">Introduction</a>
+</p>
 
 First Header  | Second Header
 ------------- | -------------
